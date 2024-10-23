@@ -9,8 +9,11 @@ Import the necessary libraries, such as pandas for data manipulation, numpy for 
 
 ## Tools
 Pandas: For data manipulation and cleaning.
+
 Matplotlib/Seaborn: Used for data visualization.
+
 SciPy/Statsmodels: For statistical analysis and hypothesis testing.
+
 Jupyter Notebook: Environment for running and documenting the analysis.
 
 ## Checked Columns and Data Types
