@@ -49,7 +49,7 @@ Analyzed the performance of various products by grouping the sales data based on
 ## Sales Performance and Trends
 Analyze sales performance across the regions to identify high performing and low performing region. Aggregated the total sales by regions and visualize the results to understand the trends and differences in performance across the various territories.
 
-## Hypohesis Testing
+## Hypothesis Testing
 Performed ANOVA(Analysis of Variance) to determine the difference in sales performance across different regions. We used the **F-statistic** and the **P-value** to access the variance between the regions. The hypothesis testing help us determine the variations in sales across the region are statistically significant or they occur due to random chance. We concluded that sales performance does vary across between the region.
 
 ## Advanced Statistical Analysis 
